@@ -1,2 +1,2 @@
 // Challenge JavaScript functionality
-console.log('Challenge started!');
+console.log("Challenge started!");
