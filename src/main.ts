@@ -65,7 +65,7 @@ function renderChallenges() {
       );
     });
 
-    grid.appendChild(card);
+    grid?.appendChild(card);
   });
 }
 
